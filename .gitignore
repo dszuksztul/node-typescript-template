@@ -2,3 +2,6 @@ node_modules/
 src/main/ts/*.js
 src/main/ts/*.js.map
 .grunt/
+report/
+src/test/ts/*.js
+src/test/ts/*.js.map

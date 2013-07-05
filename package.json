@@ -14,6 +14,7 @@
     "grunt-typescript": "~0.2",
     "grunt-contrib-clean": "~0.4",
     "grunt-contrib-watch": "~0.4",
-    "grunt-execute": "~0.1.4"
+    "grunt-execute": "~0.1.4",
+    "grunt-jasmine-node": "~0.1"
   }
 }
