@@ -1,0 +1,4 @@
+node_modules/
+src/main/ts/*.js
+src/main/ts/*.js.map
+.grunt/

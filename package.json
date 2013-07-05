@@ -1,0 +1,19 @@
+{
+  "name": "typescript-project",
+  "version": "0.1.0",
+  "description": "....",
+  "keywords": [
+    "typescript",
+    "node.js"
+  ],
+  "author": "",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-typescript": "~0.2",
+    "grunt-contrib-clean": "~0.4",
+    "grunt-contrib-watch": "~0.4",
+    "grunt-execute": "~0.1.4"
+  }
+}
